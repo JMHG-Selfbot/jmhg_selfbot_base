@@ -3,5 +3,5 @@ a simple base for a discord selfbot written in python using the discord.py api V
 
 simply run the Prerequisits.bat file(which will install all the nescassary modules needed to run the bot) and put your token in the config.json file
 then you can just press JMHG.bat and it will run the JMHG.py file.
-you can use this however you like but please do not use this as a base to make a commercial selfbot.
+you can use this however you like but if you decide to make a commercial selfbot(dont recommend it but ok) please make sure to reference that i made the base :) thanks hun
 i am also not responsible for any bans which may occur while using this base, but you should be fine
